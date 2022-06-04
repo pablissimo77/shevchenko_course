@@ -1,8 +1,11 @@
 # Shevchenko course (backend+frontend)
 
-
-[backend lesson 1](#lesson-1-2022-06-03)
-
+-----
+* Frontend
+    * [Lesson 1](#lesson-1-2022-06-02)
+* Backend
+    * [Lesson 1](#lesson-1-2022-06-03)
+-----
 
 ## Frontend
 
