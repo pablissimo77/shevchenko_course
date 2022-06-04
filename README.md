@@ -1,5 +1,9 @@
 # Shevchenko course (backend+frontend)
 
+
+(backend lesson 1)[###lesson-1-(2022-06-03)]
+
+
 ## Frontend
 
 ### Lesson 1 (2022-06-02)
@@ -42,7 +46,7 @@ dict_homework = {
 
 Решение:
 
-``/backend/lesson1/get_me.py``
+`/backend/lesson1/get_me.py`
 
 ```python
 print(dict_homework["key1"]["s"][10]["mm"][1])
