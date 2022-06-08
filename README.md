@@ -1,5 +1,7 @@
 # Shevchenko course (backend+frontend)
 
+## Chapters 
+
 * [Frontend](#frontend)
     * [Lesson 1](#lesson-1-2022-06-02)
     * [Lesson 2](#lesson-2-2022-06-06)
@@ -11,7 +13,7 @@
 
 ## Frontend
 
-### Lesson 1 (2022-06-02)
+### Lesson 1 (2022-06-02) [^](#chapters)
 
 Изучение HTML, основные теги
 
@@ -25,13 +27,13 @@
 
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
-### Lesson 2 (2022-06-06)
+### Lesson 2 (2022-06-06) [^](#chapters)
 
 Изучение CSS
 
 ## Backend
 
-### Lesson 1 (2022-06-03)
+### Lesson 1 (2022-06-03) [^](#chapters)
 
 Изучение типов данных.
 
@@ -60,7 +62,7 @@ dict_homework = {
 print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
 
-### Lesson 2 (2022-06-07)
+### Lesson 2 (2022-06-07) [^](#chapters)
 
 Изучение циклов, условий, списков, словарей.
 
