@@ -13,7 +13,6 @@
 
 ## Frontend
 
-[^^^](#chapters)
 ### Lesson 1 (2022-06-02)
 
 Изучение HTML, основные теги
@@ -28,13 +27,16 @@
 
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
+[^^^](#chapters)
+
 ### Lesson 2 (2022-06-06) [^](#chapters)
 
 Изучение CSS
 
+[^^^](#chapters)
+
 ## Backend
 
-[^^^](#chapters)
 ### Lesson 1 (2022-06-03)
 
 Изучение типов данных.
@@ -65,6 +67,7 @@ print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
 
 [^^^](#chapters)
+
 ### Lesson 2 (2022-06-07) 
 
 Изучение циклов, условий, списков, словарей.
@@ -74,4 +77,4 @@ print(dict_homework["key1"]["s"][10]["mm"][1])
 
 Решение: `/backend/lesson2/transactions.py`
 
-
+[^^^](#chapters)
