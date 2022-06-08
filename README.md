@@ -29,7 +29,7 @@
 
 [^^^](#chapters)
 
-### Lesson 2 (2022-06-06) [^](#chapters)
+### Lesson 2 (2022-06-06)
 
 Изучение CSS
 
