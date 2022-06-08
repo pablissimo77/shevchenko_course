@@ -2,8 +2,10 @@
 
 * [Frontend](#frontend)
     * [Lesson 1](#lesson-1-2022-06-02)
+    * [Lesson 2](#lesson-2-2022-06-06)
 * [Backend](#backend)
     * [Lesson 1](#lesson-1-2022-06-03)
+    * [Lesson 2](#lesson-2-2022-06-07)
     
 -----
 
@@ -23,11 +25,20 @@
 
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
+### Lesson 2 (2022-06-06)
+
+Изучение CSS
+
 ## Backend
 
 ### Lesson 1 (2022-06-03)
 
-Из словаря `dict_homework` достать значение "GET ME"
+Изучение типов данных.
+
+Домашнее задание - из словаря `dict_homework` достать значение "GET ME"
+
+Решение: `/backend/lesson1/get_me.py`
+
 
 ```python
 dict_homework = {
@@ -45,12 +56,17 @@ dict_homework = {
         "f": None,
     },
 }
-```
 
-Решение:
-
-`/backend/lesson1/get_me.py`
-
-```python
 print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
+
+### Lesson 2 (2022-06-07)
+
+Изучение циклов, условий, списков, словарей.
+
+Домашнее задание: Из списка словарей `transactions_homework` найти сумму транзакций, если add = True и среди продуктов есть "Хлеб"
+Должен получится ответ: 172
+
+Решение: `/backend/lesson2/transactions.py`
+
+
