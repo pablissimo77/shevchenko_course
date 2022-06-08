@@ -13,7 +13,8 @@
 
 ## Frontend
 
-### Lesson 1 (2022-06-02) [^](#chapters)
+[^^^](#chapters)
+### Lesson 1 (2022-06-02)
 
 Изучение HTML, основные теги
 
@@ -33,7 +34,8 @@
 
 ## Backend
 
-### Lesson 1 (2022-06-03) [^](#chapters)
+[^^^](#chapters)
+### Lesson 1 (2022-06-03)
 
 Изучение типов данных.
 
@@ -62,7 +64,8 @@ dict_homework = {
 print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
 
-### Lesson 2 (2022-06-07) [^](#chapters)
+[^^^](#chapters)
+### Lesson 2 (2022-06-07) 
 
 Изучение циклов, условий, списков, словарей.
 
