@@ -5,9 +5,11 @@
 * [Frontend](#frontend)
     * [Lesson 1](#lesson-1-2022-06-02)
     * [Lesson 2](#lesson-2-2022-06-06)
+    * [Lesson 3](#lesson-3-2022-06-09)
 * [Backend](#backend)
     * [Lesson 1](#lesson-1-2022-06-03)
     * [Lesson 2](#lesson-2-2022-06-07)
+    * [Lesson 3](#lesson-3-2022-06-10)
     
 -----
 
@@ -22,9 +24,7 @@
 Ссылки:
 
 * [Запись урока на Youtube](https://youtu.be/mSeRyDT7L1Y)
-
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
-
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
 [^^^](#chapters)
@@ -32,6 +32,22 @@
 ### Lesson 2 (2022-06-06)
 
 Изучение CSS
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/v9dPnaUiOHo)
+
+
+[^^^](#chapters)
+
+### Lesson 3 (2022-06-09)
+
+Изучение HTML5, CSS3
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/ROhP_E4VuNE)
+
 
 [^^^](#chapters)
 
@@ -66,6 +82,10 @@ dict_homework = {
 print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
 
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/H1lgOQ1ojhU)
+
 [^^^](#chapters)
 
 ### Lesson 2 (2022-06-07) 
@@ -76,5 +96,37 @@ print(dict_homework["key1"]["s"][10]["mm"][1])
 Должен получится ответ: 172
 
 Решение: `/backend/lesson2/transactions.py`
+
+```python
+transactions_homework = {...}
+
+sum_amount = sum(
+    [
+        transaction.get("amount", 0)
+        for transaction in transactions_homework
+        if transaction.get("add", False) and "Хлеб" in transaction.get("products", [])
+    ]
+)
+
+print(sum_amount)
+```
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/_4lrmg4zoOo)
+
+[^^^](#chapters)
+
+### Lesson 3 (2022-06-10) 
+
+Изучение функции, пакеты и virtual environment
+
+Домашнее задание: создать virtual environment
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/d8mlbtXg930)
+* [Документация по Virtual Environment](https://docs.python.org/3/tutorial/venv.html)
+
 
 [^^^](#chapters)
