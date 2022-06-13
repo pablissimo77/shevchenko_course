@@ -10,10 +10,12 @@
     * [Lesson 1](#lesson-1-2022-06-03)
     * [Lesson 2](#lesson-2-2022-06-07)
     * [Lesson 3](#lesson-3-2022-06-10)
-    
+
 -----
 
 ## Frontend
+
+-----
 
 ### Lesson 1 (2022-06-02)
 
@@ -29,6 +31,8 @@
 
 [^^^](#chapters)
 
+-----
+
 ### Lesson 2 (2022-06-06)
 
 Изучение CSS
@@ -40,6 +44,8 @@
 
 [^^^](#chapters)
 
+-----
+
 ### Lesson 3 (2022-06-09)
 
 Изучение HTML5, CSS3
@@ -47,11 +53,16 @@
 Ссылки:
 
 * [Запись урока на Youtube](https://youtu.be/ROhP_E4VuNE)
+* [Сайт для проверки браузеров](http://caniuse.com/)
 
 
 [^^^](#chapters)
 
+-----
+
 ## Backend
+
+-----
 
 ### Lesson 1 (2022-06-03)
 
@@ -88,6 +99,8 @@ print(dict_homework["key1"]["s"][10]["mm"][1])
 
 [^^^](#chapters)
 
+-----
+
 ### Lesson 2 (2022-06-07) 
 
 Изучение циклов, условий, списков, словарей.
@@ -117,6 +130,8 @@ print(sum_amount)
 
 [^^^](#chapters)
 
+-----
+
 ### Lesson 3 (2022-06-10) 
 
 Изучение функции, пакеты и virtual environment
@@ -130,3 +145,5 @@ print(sum_amount)
 
 
 [^^^](#chapters)
+
+-----
