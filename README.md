@@ -6,10 +6,12 @@
     * [Lesson 1](#lesson-1-2022-06-02)
     * [Lesson 2](#lesson-2-2022-06-06)
     * [Lesson 3](#lesson-3-2022-06-09)
+    * [Lesson 4](#lesson-4-2022-06-13)
 * [Backend](#backend)
     * [Lesson 1](#lesson-1-2022-06-03)
     * [Lesson 2](#lesson-2-2022-06-07)
     * [Lesson 3](#lesson-3-2022-06-10)
+    * [Lesson 4](#lesson-4-2022-06-14)
 
 -----
 
@@ -54,6 +56,19 @@
 
 * [Запись урока на Youtube](https://youtu.be/ROhP_E4VuNE)
 * [Сайт для проверки браузеров](http://caniuse.com/)
+
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 4 (2022-06-13)
+
+Изучение pseudo-elements, HTML5, CSS3
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/QYKa0ZOs_-c)
 
 
 [^^^](#chapters)
@@ -142,6 +157,23 @@ print(sum_amount)
 
 * [Запись урока на Youtube](https://youtu.be/d8mlbtXg930)
 * [Документация по Virtual Environment](https://docs.python.org/3/tutorial/venv.html)
+
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 4 (2022-06-14) 
+
+Изучение функции, пакеты и virtual environment
+
+Домашнее задание: создать virtual environment
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/3HnNeqjtb48)
+* [PEP8 на pythonworld](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
+* [PEP8 Официальная документация](https://peps.python.org/pep-0008/)
 
 
 [^^^](#chapters)
