@@ -7,11 +7,13 @@
     * [Lesson 2](#lesson-2-2022-06-06)
     * [Lesson 3](#lesson-3-2022-06-09)
     * [Lesson 4](#lesson-4-2022-06-13)
+    * [Lesson 5](#lesson-5-2022-06-17)
 * [Backend](#backend)
     * [Lesson 1](#lesson-1-2022-06-03)
     * [Lesson 2](#lesson-2-2022-06-07)
     * [Lesson 3](#lesson-3-2022-06-10)
     * [Lesson 4](#lesson-4-2022-06-14)
+    * [Lesson 5](#lesson-5-2022-06-18)
 
 -----
 
@@ -70,6 +72,14 @@
 
 * [Запись урока на Youtube](https://youtu.be/QYKa0ZOs_-c)
 
+### Lesson 5 (2022-06-17)
+
+Изучение адаптивности и бутстрапа
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/Mm1VizI-oos)
+* [Документація з бутстрапу](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 [^^^](#chapters)
 
@@ -175,6 +185,18 @@ print(sum_amount)
 * [PEP8 на pythonworld](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
 * [PEP8 Официальная документация](https://peps.python.org/pep-0008/)
 
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 5 (2022-06-18) 
+
+Изучение моделей в Django
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/ZTagiWzGB2Q)
 
 [^^^](#chapters)
 
