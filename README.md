@@ -8,12 +8,19 @@
     * [Lesson 3](#lesson-3-2022-06-09)
     * [Lesson 4](#lesson-4-2022-06-13)
     * [Lesson 5](#lesson-5-2022-06-17)
+    * [Lesson 6](#lesson-6-2022-06-20)
+    * [Lesson 7](#lesson-7-2022-06-23)
+
 * [Backend](#backend)
     * [Lesson 1](#lesson-1-2022-06-03)
     * [Lesson 2](#lesson-2-2022-06-07)
     * [Lesson 3](#lesson-3-2022-06-10)
     * [Lesson 4](#lesson-4-2022-06-14)
     * [Lesson 5](#lesson-5-2022-06-18)
+    * [Lesson 6](#lesson-6-2022-06-21)
+    * [Lesson 7](#lesson-7-2022-06-24)
+
+
 
 -----
 
@@ -84,6 +91,32 @@
 [^^^](#chapters)
 
 -----
+
+### Lesson 6 (2022-06-20)
+
+Верстаємо і встановлюємо react
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/uf84ss-9bho)
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 7 (2022-06-23)
+
+Починаємо розбирати react
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/HtdP22Hw2U4)
+
+[^^^](#chapters)
+
+-----
+
+
 
 ## Backend
 
@@ -201,3 +234,34 @@ print(sum_amount)
 [^^^](#chapters)
 
 -----
+
+### Lesson 6 (2022-06-21) 
+
+Вчимо запити і роботу з моделями Django
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/8tmCBLpnU5M)
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 7 (2022-06-18) 
+
+Продовжуємо вчити Django
+
+**ДЗ по бекенду:** Зробити модель «Subject» - предмет
+З групи зробити ForeignKey до нього
+Потім зробити окремий урл «/courses/subject/», за яким ,будуть видаватися всі предмети
+І зробити окремий урл «/courses/subject/<id>/», за яким ,будуть видаватися імена всіх студентів, які записані в групи, які слухають цей предмет (за id)
+Дедлайн - понеділок вечір
+
+Ссылки:
+
+* [Запись урока на Youtube](https://youtu.be/m3PP3DWU7Z0)
+
+[^^^](#chapters)
+
+-----
+
