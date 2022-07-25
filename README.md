@@ -49,6 +49,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/v9dPnaUiOHo/maxresdefault.jpg)](https://youtu.be/v9dPnaUiOHo)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/Online%20Фронт%20від%20Shevchenkod%20-%20Frontend%20заняття%202-v9dPnaUiOHo.mp4)
+
 Изучение CSS
 
 [^^^](#chapters)
