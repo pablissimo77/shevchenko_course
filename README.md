@@ -28,6 +28,8 @@
 
 ### Lesson 1 (2022-06-02)
 
+[![Watch the video](https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg)](https://youtu.be/mSeRyDT7L1Y)
+
 Изучение HTML, основные теги
 
 Домашнее задание - создать страничку с биографией: ``/frontend/lesson1/bio.html``
@@ -38,19 +40,6 @@
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-                //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-
 -----
 
 <figure class="video_container">
@@ -59,9 +48,7 @@
 
 -----
 
-<figure class="video_container">
-  <iframe src="https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4?raw=true" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe src="https://drive.google.com/file/d/1Rk7kL-OiuxSn1gXyObjumKUZDKUo2mcU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 -----
 
