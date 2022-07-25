@@ -20,8 +20,6 @@
     * [Lesson 6](#lesson-6-2022-06-21)
     * [Lesson 7](#lesson-7-2022-06-24)
 
-
-
 -----
 
 ## Frontend
@@ -41,23 +39,7 @@
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
 
------
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mSeRyDT7L1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
------
-
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/mSeRyDT7L1Y/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
------
-
-[<img src="https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg" width="50%">](https://youtu.be/mSeRyDT7L1Y)
-
------
-
-https://youtu.be/mSeRyDT7L1Y
-
------
+https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4
 
 
 [^^^](#chapters)
