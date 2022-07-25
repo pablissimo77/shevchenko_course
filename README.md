@@ -47,6 +47,10 @@
 
 -----
 
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/mSeRyDT7L1Y/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+-----
+
 [<img src="https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg" width="50%">](https://youtu.be/mSeRyDT7L1Y)
 
 -----
