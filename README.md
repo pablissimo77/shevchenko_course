@@ -38,6 +38,14 @@
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1W268oH_Pdps1zSFDZY93a5to9ppoLGn-/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+<figure class="video_container">
+  <iframe src="https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4?raw=true" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4
 
