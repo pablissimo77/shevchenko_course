@@ -40,7 +40,21 @@
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
+
+-----
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mSeRyDT7L1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----
+
+[<img src="https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg" width="50%">](https://youtu.be/mSeRyDT7L1Y)
+
+-----
+
+https://youtu.be/mSeRyDT7L1Y
+
+-----
+
 
 [^^^](#chapters)
 
