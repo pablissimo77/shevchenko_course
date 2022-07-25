@@ -39,16 +39,8 @@
 * [Запись урока на Youtube](https://youtu.be/mSeRyDT7L1Y)
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
-* 
 
-[![video](frontend/lesson1/images/me.png)](https://drive.google.com/file/d/1W268oH_Pdps1zSFDZY93a5to9ppoLGn-/view)
-
-
-<video src="https://drive.google.com/file/d/1W268oH_Pdps1zSFDZY93a5to9ppoLGn-/view" width=180 />
-
-<iframe id="video" width="560" height="315" src="https://drive.google.com/file/d/1W268oH_Pdps1zSFDZY93a5to9ppoLGn-/view" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
-https://drive.google.com/file/d/1W268oH_Pdps1zSFDZY93a5to9ppoLGn-/view?usp=sharing
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSeRyDT7L1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^^^](#chapters)
 
