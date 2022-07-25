@@ -30,13 +30,14 @@
 
 [![Watch the video](https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg)](https://youtu.be/mSeRyDT7L1Y)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4)
+
 Изучение HTML, основные теги
 
 Домашнее задание - создать страничку с биографией: ``/frontend/lesson1/bio.html``
 
 Ссылки:
 
-* [Запись урока на Youtube](https://youtu.be/mSeRyDT7L1Y)
 * [Справочник по HTML тегам](https://html5book.ru/html-tags/)
 * [Репозиторий Шевченко](https://github.com/shevchenko126/courses)
 
@@ -46,12 +47,9 @@
 
 ### Lesson 2 (2022-06-06)
 
+[![Watch the video](https://img.youtube.com/vi/v9dPnaUiOHo/maxresdefault.jpg)](https://youtu.be/v9dPnaUiOHo)
+
 Изучение CSS
-
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/v9dPnaUiOHo)
-
 
 [^^^](#chapters)
 
@@ -59,11 +57,12 @@
 
 ### Lesson 3 (2022-06-09)
 
+[![Watch the video](https://img.youtube.com/vi/ROhP_E4VuNE/maxresdefault.jpg)](https://youtu.be/ROhP_E4VuNE)
+
 Изучение HTML5, CSS3
 
 Ссылки:
 
-* [Запись урока на Youtube](https://youtu.be/ROhP_E4VuNE)
 * [Сайт для проверки браузеров](http://caniuse.com/)
 
 
@@ -73,19 +72,18 @@
 
 ### Lesson 4 (2022-06-13)
 
+[![Watch the video](https://img.youtube.com/vi/QYKa0ZOs_-c/maxresdefault.jpg)](https://youtu.be/QYKa0ZOs_-c)
+
 Изучение pseudo-elements, HTML5, CSS3
 
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/QYKa0ZOs_-c)
-
 ### Lesson 5 (2022-06-17)
+
+[![Watch the video](https://img.youtube.com/vi/Mm1VizI-oos/maxresdefault.jpg)](https://youtu.be/Mm1VizI-oos)
 
 Изучение адаптивности и бутстрапа
 
 Ссылки:
 
-* [Запись урока на Youtube](https://youtu.be/Mm1VizI-oos)
 * [Документація з бутстрапу](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 [^^^](#chapters)
@@ -94,11 +92,9 @@
 
 ### Lesson 6 (2022-06-20)
 
+[![Watch the video](https://img.youtube.com/vi/uf84ss-9bho/maxresdefault.jpg)](https://youtu.be/uf84ss-9bho)
+
 Верстаємо і встановлюємо react
-
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/uf84ss-9bho)
 
 [^^^](#chapters)
 
@@ -106,16 +102,46 @@
 
 ### Lesson 7 (2022-06-23)
 
+[![Watch the video](https://img.youtube.com/vi/HtdP22Hw2U4/maxresdefault.jpg)](https://youtu.be/HtdP22Hw2U4)
+
 Починаємо розбирати react
 
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/HtdP22Hw2U4)
 
 [^^^](#chapters)
 
 -----
 
+### Lesson 8 (2022-06-27)
+
+[![Watch the video](https://img.youtube.com/vi/TJGNvstVPHQ/maxresdefault.jpg)](https://youtu.be/TJGNvstVPHQ)
+
+Вивчамо props і state в react
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 9 (2022-06-30)
+
+[![Watch the video](https://img.youtube.com/vi/VVG6mCWoMMo/maxresdefault.jpg)](https://youtu.be/VVG6mCWoMMo)
+
+Вчимо react useEffect і map
+
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 10 (2022-07-04)
+
+[![Watch the video](https://img.youtube.com/vi/EnEh_7VRG8o/maxresdefault.jpg)](https://youtu.be/EnEh_7VRG8o)
+
+Вчимо fetch
+
+
+[^^^](#chapters)
+
+-----
 
 
 ## Backend
@@ -123,6 +149,8 @@
 -----
 
 ### Lesson 1 (2022-06-03)
+
+[![Watch the video](https://img.youtube.com/vi/H1lgOQ1ojhU/maxresdefault.jpg)](https://youtu.be/H1lgOQ1ojhU)
 
 Изучение типов данных.
 
@@ -151,15 +179,13 @@ dict_homework = {
 print(dict_homework["key1"]["s"][10]["mm"][1])
 ```
 
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/H1lgOQ1ojhU)
-
 [^^^](#chapters)
 
 -----
 
 ### Lesson 2 (2022-06-07) 
+
+[![Watch the video](https://img.youtube.com/vi/_4lrmg4zoOo/maxresdefault.jpg)](https://youtu.be/_4lrmg4zoOo)
 
 Изучение циклов, условий, списков, словарей.
 
@@ -182,15 +208,13 @@ sum_amount = sum(
 print(sum_amount)
 ```
 
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/_4lrmg4zoOo)
-
 [^^^](#chapters)
 
 -----
 
 ### Lesson 3 (2022-06-10) 
+
+[![Watch the video](https://img.youtube.com/vi/d8mlbtXg930/maxresdefault.jpg)](https://youtu.be/d8mlbtXg930)
 
 Изучение функции, пакеты и virtual environment
 
@@ -198,7 +222,6 @@ print(sum_amount)
 
 Ссылки:
 
-* [Запись урока на Youtube](https://youtu.be/d8mlbtXg930)
 * [Документация по Virtual Environment](https://docs.python.org/3/tutorial/venv.html)
 
 
@@ -208,13 +231,14 @@ print(sum_amount)
 
 ### Lesson 4 (2022-06-14) 
 
+[![Watch the video](https://img.youtube.com/vi/3HnNeqjtb48/maxresdefault.jpg)](https://youtu.be/3HnNeqjtb48)
+
 Изучение функции, пакеты и virtual environment
 
 Домашнее задание: создать virtual environment
 
 Ссылки:
 
-* [Запись урока на Youtube](https://youtu.be/3HnNeqjtb48)
 * [PEP8 на pythonworld](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
 * [PEP8 Официальная документация](https://peps.python.org/pep-0008/)
 
@@ -225,11 +249,9 @@ print(sum_amount)
 
 ### Lesson 5 (2022-06-18) 
 
+[![Watch the video](https://img.youtube.com/vi/ZTagiWzGB2Q/maxresdefault.jpg)](https://youtu.be/ZTagiWzGB2Q)
+
 Изучение моделей в Django
-
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/ZTagiWzGB2Q)
 
 [^^^](#chapters)
 
@@ -237,17 +259,17 @@ print(sum_amount)
 
 ### Lesson 6 (2022-06-21) 
 
+[![Watch the video](https://img.youtube.com/vi/8tmCBLpnU5M/maxresdefault.jpg)](https://youtu.be/8tmCBLpnU5M)
+
 Вчимо запити і роботу з моделями Django
-
-Ссылки:
-
-* [Запись урока на Youtube](https://youtu.be/8tmCBLpnU5M)
 
 [^^^](#chapters)
 
 -----
 
 ### Lesson 7 (2022-06-24) 
+
+[![Watch the video](https://img.youtube.com/vi/m3PP3DWU7Z0/maxresdefault.jpg)](https://youtu.be/m3PP3DWU7Z0)
 
 Продовжуємо вчити Django
 
@@ -256,11 +278,37 @@ print(sum_amount)
 І зробити окремий урл `/courses/subject/<id>/`, за яким, будуть видаватися імена всіх студентів, які записані в групи, які слухають цей предмет (за id)
 Дедлайн - понеділок вечір
 
-Ссылки:
+[^^^](#chapters)
 
-* [Запись урока на Youtube](https://youtu.be/m3PP3DWU7Z0)
+-----
+
+### Lesson 8 (2022-06-28) 
+
+[![Watch the video](https://img.youtube.com/vi/WG512WgCJ2I/maxresdefault.jpg)](https://youtu.be/WG512WgCJ2I)
+
+Продовжуємо вчити Django
+Users and decorators
 
 [^^^](#chapters)
 
 -----
 
+### Lesson 9 (2022-07-01) 
+
+[![Watch the video](https://img.youtube.com/vi/VtxvgQVfW0k/maxresdefault.jpg)](https://youtu.be/VtxvgQVfW0k)
+
+Продовжуємо вчити Django та підключаємо вже Django Rest Framework
+
+[^^^](#chapters)
+
+-----
+
+### Lesson 10 (2022-06-21) 
+
+[![Watch the video](https://img.youtube.com/vi/0_ToHGVN-b8/maxresdefault.jpg)](https://youtu.be/0_ToHGVN-b8)
+
+Вчимо серіалайзери і токени
+
+[^^^](#chapters)
+
+-----
