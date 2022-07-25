@@ -30,7 +30,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/mSeRyDT7L1Y/maxresdefault.jpg)](https://youtu.be/mSeRyDT7L1Y)
 
-[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/Online%20Фронт%20від%20Shevchenkod%20-%20Frontend%20заняття%201-mSeRyDT7L1Y)
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%201)
 
 Изучение HTML, основные теги
 
@@ -49,7 +49,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/v9dPnaUiOHo/maxresdefault.jpg)](https://youtu.be/v9dPnaUiOHo)
 
-[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/Online%20Фронт%20від%20Shevchenkod%20-%20Frontend%20заняття%202-v9dPnaUiOHo.mp4)
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%202)
 
 Изучение CSS
 
@@ -60,6 +60,8 @@
 ### Lesson 3 (2022-06-09)
 
 [![Watch the video](https://img.youtube.com/vi/ROhP_E4VuNE/maxresdefault.jpg)](https://youtu.be/ROhP_E4VuNE)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%203)
 
 Изучение HTML5, CSS3
 
@@ -76,11 +78,15 @@
 
 [![Watch the video](https://img.youtube.com/vi/QYKa0ZOs_-c/maxresdefault.jpg)](https://youtu.be/QYKa0ZOs_-c)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%204)
+
 Изучение pseudo-elements, HTML5, CSS3
 
 ### Lesson 5 (2022-06-17)
 
 [![Watch the video](https://img.youtube.com/vi/Mm1VizI-oos/maxresdefault.jpg)](https://youtu.be/Mm1VizI-oos)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%205)
 
 Изучение адаптивности и бутстрапа
 
@@ -96,6 +102,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/uf84ss-9bho/maxresdefault.jpg)](https://youtu.be/uf84ss-9bho)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%206)
+
 Верстаємо і встановлюємо react
 
 [^^^](#chapters)
@@ -105,6 +113,8 @@
 ### Lesson 7 (2022-06-23)
 
 [![Watch the video](https://img.youtube.com/vi/HtdP22Hw2U4/maxresdefault.jpg)](https://youtu.be/HtdP22Hw2U4)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%207)
 
 Починаємо розбирати react
 
@@ -117,6 +127,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/TJGNvstVPHQ/maxresdefault.jpg)](https://youtu.be/TJGNvstVPHQ)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%208)
+
 Вивчамо props і state в react
 
 [^^^](#chapters)
@@ -126,6 +138,8 @@
 ### Lesson 9 (2022-06-30)
 
 [![Watch the video](https://img.youtube.com/vi/VVG6mCWoMMo/maxresdefault.jpg)](https://youtu.be/VVG6mCWoMMo)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%209)
 
 Вчимо react useEffect і map
 
@@ -137,6 +151,8 @@
 ### Lesson 10 (2022-07-04)
 
 [![Watch the video](https://img.youtube.com/vi/EnEh_7VRG8o/maxresdefault.jpg)](https://youtu.be/EnEh_7VRG8o)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/frontend/videos/lesson%2010)
 
 Вчимо fetch
 
@@ -153,6 +169,8 @@
 ### Lesson 1 (2022-06-03)
 
 [![Watch the video](https://img.youtube.com/vi/H1lgOQ1ojhU/maxresdefault.jpg)](https://youtu.be/H1lgOQ1ojhU)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%201)
 
 Изучение типов данных.
 
@@ -189,6 +207,8 @@ print(dict_homework["key1"]["s"][10]["mm"][1])
 
 [![Watch the video](https://img.youtube.com/vi/_4lrmg4zoOo/maxresdefault.jpg)](https://youtu.be/_4lrmg4zoOo)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%202)
+
 Изучение циклов, условий, списков, словарей.
 
 Домашнее задание: Из списка словарей `transactions_homework` найти сумму транзакций, если add = True и среди продуктов есть "Хлеб"
@@ -218,6 +238,8 @@ print(sum_amount)
 
 [![Watch the video](https://img.youtube.com/vi/d8mlbtXg930/maxresdefault.jpg)](https://youtu.be/d8mlbtXg930)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%203)
+
 Изучение функции, пакеты и virtual environment
 
 Домашнее задание: создать virtual environment
@@ -234,6 +256,8 @@ print(sum_amount)
 ### Lesson 4 (2022-06-14) 
 
 [![Watch the video](https://img.youtube.com/vi/3HnNeqjtb48/maxresdefault.jpg)](https://youtu.be/3HnNeqjtb48)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%204)
 
 Изучение функции, пакеты и virtual environment
 
@@ -253,6 +277,8 @@ print(sum_amount)
 
 [![Watch the video](https://img.youtube.com/vi/ZTagiWzGB2Q/maxresdefault.jpg)](https://youtu.be/ZTagiWzGB2Q)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%205)
+
 Изучение моделей в Django
 
 [^^^](#chapters)
@@ -263,6 +289,8 @@ print(sum_amount)
 
 [![Watch the video](https://img.youtube.com/vi/8tmCBLpnU5M/maxresdefault.jpg)](https://youtu.be/8tmCBLpnU5M)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%206)
+
 Вчимо запити і роботу з моделями Django
 
 [^^^](#chapters)
@@ -272,6 +300,8 @@ print(sum_amount)
 ### Lesson 7 (2022-06-24) 
 
 [![Watch the video](https://img.youtube.com/vi/m3PP3DWU7Z0/maxresdefault.jpg)](https://youtu.be/m3PP3DWU7Z0)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%207)
 
 Продовжуємо вчити Django
 
@@ -288,6 +318,8 @@ print(sum_amount)
 
 [![Watch the video](https://img.youtube.com/vi/WG512WgCJ2I/maxresdefault.jpg)](https://youtu.be/WG512WgCJ2I)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%208)
+
 Продовжуємо вчити Django
 Users and decorators
 
@@ -299,6 +331,8 @@ Users and decorators
 
 [![Watch the video](https://img.youtube.com/vi/VtxvgQVfW0k/maxresdefault.jpg)](https://youtu.be/VtxvgQVfW0k)
 
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%209)
+
 Продовжуємо вчити Django та підключаємо вже Django Rest Framework
 
 [^^^](#chapters)
@@ -308,6 +342,8 @@ Users and decorators
 ### Lesson 10 (2022-06-21) 
 
 [![Watch the video](https://img.youtube.com/vi/0_ToHGVN-b8/maxresdefault.jpg)](https://youtu.be/0_ToHGVN-b8)
+
+[download video](https://github.com/pablissimo77/shevchenko_course/raw/main/backend/videos/lesson%2010)
 
 Вчимо серіалайзери і токени
 
