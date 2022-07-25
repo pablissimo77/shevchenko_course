@@ -41,6 +41,7 @@
 
 https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4
 
+https://github.com/pablissimo77/shevchenko_course/blob/main/frontend/videos/Online%20%D0%A4%D1%80%D0%BE%D0%BD%D1%82%20%D0%B2%D1%96%D0%B4%20Shevchenkod%20-%20Frontend%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%82%D1%8F%201-mSeRyDT7L1Y.mp4?raw=true
 
 [^^^](#chapters)
 
